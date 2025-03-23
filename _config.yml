@@ -13,9 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
+linkedin: ""
 stackoverflow: ""
-github: "#"
+github: "https://github.com/Spare-Brained-Community"
 researchgate: ""
 orcid: ""
 quora: ""
