@@ -1,37 +1,37 @@
 ---
 title:
 layout: default
-permalink: /projects/
+permalink: /gifts/
 published: true
 ---
 
 
-<div class="ProjectContainer">
+<div class="giftContainer">
 
 	<div class="gallery">
 
 
-  {% for project in site.projects %}
+  {% for gift in site.gifts %}
 
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
+  {% if gift.redirect %}
+  <div class="giftTile">
+          <a href="{{ gift.redirect }}" target="_blank">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ gift.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ gift.description }}</p>
           </span>
           </a>
   </div>
 
   {% else %}
 
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+  <div class="giftTile">
+          <a href="{{ gift.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
-              <h2>{{ project.title }}</h2>
+              <h2>{{ gift.title }}</h2>
               <br/>
-              <p>{{ project.description }}</p>
+              <p>{{ gift.description }}</p>
           </span>
           </a>
   </div>

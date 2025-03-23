@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Spare Brained Ideas - In Memorial
+description: A former Business Central partner dedicated to improving the BC Community
 
 baseurl: /Tombstone #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -43,7 +43,7 @@ compress_html:
 
 #collection
 collections:
-  projects:
+  gifts:
     output: true
     permalink: /gifts/:name/
     order:
