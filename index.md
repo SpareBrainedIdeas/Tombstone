@@ -26,7 +26,7 @@ Links coming soon.
 
 - Wallpapers
 - Past Talks - Reference Code
-- Post Blog Posts
+- Past Blog Posts
 
 ## Unavailable
 
