@@ -3,7 +3,7 @@
 title: Spare Brained Ideas - In memoriam
 description: A former Business Central partner dedicated to improving the BC Community
 
-baseurl: / #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "https://sparebrained.com" #custom url to be used instead of GitHub repository
 email: #
 
