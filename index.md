@@ -7,15 +7,30 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Spare Brained Ideas AB was a Microsoft Dynamics 365 Business Central organization run from 2021 to 2024 by Jeremy Vyska.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Since part of the focus was to make available many community tools and resources, this site is an archive of those tools.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Some of those resources remain active, others are archived, and some are unavailable at this time.
 
-PS: If you liked the theme, do star it on GitHub!
+## Active:
 
-### Also, check out:
+- [Daily](https://app.mailbrew.com/JeremyVyska/fresh-cup-o-msdyn365bc-fINwxpNjsVFX) Newsletter of Blog Posts and YouTube Videos
+- [Weekly](https://app.mailbrew.com/JeremyVyska/fresh-pot-o-msdyn365bc-pBu9HzzxBQmE) Newsletter of Blog Posts and YouTube Videos 
+- [Licensing App](https://github.com/Spare-Brained-Community/Spare-Brained-Licensing) Open Source Licensing Tooling for Business Central
+- [Data Braider](https://github.com/Spare-Brained-Community/SBI-DataBraider) Open Source - No-Code API Factory for Business Central
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+## Archived But Available:
+
+Links coming soon.
+
+- Wallpapers
+- Past Talks - Reference Code
+- Post Blog Posts
+
+## Unavailable
+
+For the moment, since there are commercial and tax implications, the books published by Spare Brained Ideas are unavailable.  They were:
+
+- Your First 20 Hours with Business Central
+- The Microsoft Dynamics 365 Business Central API v2.0 Reference Guide
