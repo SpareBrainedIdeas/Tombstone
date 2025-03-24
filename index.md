@@ -17,16 +17,16 @@ Some of those resources remain active, others are archived, and some are unavail
 
 - [Daily](https://app.mailbrew.com/JeremyVyska/fresh-cup-o-msdyn365bc-fINwxpNjsVFX) Newsletter of Blog Posts and YouTube Videos
 - [Weekly](https://app.mailbrew.com/JeremyVyska/fresh-pot-o-msdyn365bc-pBu9HzzxBQmE) Newsletter of Blog Posts and YouTube Videos 
-- [Licensing App](https://github.com/Spare-Brained-Community/Spare-Brained-Licensing) Open Source Licensing Tooling for Business Central
-- [Data Braider](https://github.com/Spare-Brained-Community/SBI-DataBraider) Open Source - No-Code API Factory for Business Central
+- [Licensing App](gifts/licensing) Open Source Licensing Tooling for Business Central
+- [Data Braider](gifts/braider) Open Source - No-Code API Factory for Business Central
 
 ## Archived But Available:
 
 Links coming soon.
 
-- Wallpapers
-- Past Talks - Reference Code
-- Past Blog Posts
+- [Wallpapers](gifts/wallpapers)
+- [Past Talks](gifts/pasttalks) - Reference Code and videos
+- [Past Blog Posts](https://jeremy.vyska.info)
 
 ## Unavailable
 
@@ -34,3 +34,5 @@ For the moment, since there are commercial and tax implications, the books publi
 
 - Your First 20 Hours with Business Central
 - The Microsoft Dynamics 365 Business Central API v2.0 Reference Guide
+
+You can read more about them at:  [Books](gifts/books)
