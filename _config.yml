@@ -47,12 +47,12 @@ collections:
     output: true
     permalink: /gifts/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - newsletters.md
+      - wallpapers.md
+      - licensing.md
+      - braider.md
+      - pasttalks.md
+      - books.md
 
 sass:
   sass_dir: /assets/css/_sass

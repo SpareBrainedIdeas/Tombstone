@@ -27,7 +27,7 @@ published: true
   {% else %}
 
   <div class="giftTile">
-          <a href="{{ gift.url | prepend: site.baseurl | prepend: site.url }}">
+          <a href="{{ gift.url | prepend: site.baseurl  }}">
           <span>
               <h2>{{ gift.title }}</h2>
               <br/>
