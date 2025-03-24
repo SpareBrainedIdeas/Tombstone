@@ -15,7 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: ""
 stackoverflow: ""
-github: "https://github.com/Spare-Brained-Community"
+github: "Spare-Brained-Community"
 researchgate: ""
 orcid: ""
 quora: ""
